@@ -1,0 +1,19 @@
+body{
+    background: darkmagenta;
+    text-align: center;
+}
+p{
+    font-size: 40px;
+}
+
+form{
+    font-size: 25px;
+    
+}
+input{
+    font-size: 15px;
+}
+
+a{
+    font-size: 20px;
+}
