@@ -1,0 +1,13 @@
+table,td {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+
+  body{
+    font-size: larger;
+}
+img{
+    width: 300px;
+    height: 150px;
+}
+  
