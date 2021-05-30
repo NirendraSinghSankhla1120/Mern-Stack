@@ -1,0 +1,11 @@
+.card-deck{
+    margin: 30px;
+}
+body{
+    background: rgb(233, 206, 174);
+}
+
+img{
+    width: 100px;
+    height: 200px;
+}
